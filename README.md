@@ -8,3 +8,4 @@ Synthesize locally cached Bilibili video and audio files while downloading corre
 Dependencies
 ------------
 - requests
+- ffmpeg
