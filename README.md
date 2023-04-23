@@ -5,7 +5,6 @@
 
 Synthesize locally cached Bilibili video and audio files while downloading corresponding soft subtitles.
 
-Dependencies
-------------
+## Requirements
 - requests
 - ffmpeg
